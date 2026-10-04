@@ -1,18 +1,10 @@
 # Credit Risk Prediction Using Machine Learning
 
 **Course:** DA4641 Introduction to FinTech, Case Study 01 (Python-Based FinTech Analytics)
+
 **Group:** 6, Dataset 1
+
 **Institution:** Department of Decision Sciences, Faculty of Business, University of Moratuwa
-
-## Team
-
-| Name | Index No. |
-|---|---|
-|Gunasinghe P.B | 226044G | 
-| Kumara S.D.N.S | 226067E |
-| Weerasekara R.D | 226133E |
-| Jayathissa W.A.G.J.U.N | 216057N |
-| Ranaweera R.P.N.L | 216104H |
 
 ## Project Overview
 
