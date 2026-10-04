@@ -8,9 +8,9 @@
 
 | Name | Index No. |
 |---|---|
+|Gunasinghe P.B | 226044G | 
 | Kumara S.D.N.S | 226067E |
 | Weerasekara R.D | 226133E |
-| Gunasinghe P.B | 226044G |
 | Jayathissa W.A.G.J.U.N | 216057N |
 | Ranaweera R.P.N.L | 216104H |
 
